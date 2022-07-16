@@ -1,6 +1,6 @@
  ### BIZIM ORTAM
 
-### ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴘʀᴇᴍɪᴜᴍ ᴍᴜsɪᴄ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ sᴜᴍɪᴛ ʏᴀᴅᴀᴠ.
+### BIZIM ORTAM musiqi botu.
 
 <p align="center"><a href="https://t.me/bizimortammm"><img src="https://github.com/Kamalbabayev/TELEGRAMBOT/blob/main/IMAGE.jpeg?raw=true"></a></p>
 
