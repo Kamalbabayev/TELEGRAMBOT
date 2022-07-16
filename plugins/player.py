@@ -1,4 +1,4 @@
-# Sumit Yadav // @Simple_Mundaa
+# KAMAL BABAYEV // @bizimortammm
 
 import os
 import aiofiles
@@ -109,7 +109,7 @@ async def play(_, message: Message):
     global que
     global useer
     
-    lel = await message.reply("**🔎 sᴇᴀʀᴄʜɪɴɢ...**")
+    lel = await message.reply("**🔎 Axtarılır...**")
 
     administrators = await get_administrators(message.chat)
     chid = message.chat.id
@@ -117,7 +117,7 @@ async def play(_, message: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "Asuka_Music_Bot"
+        user.first_name = "BIZIMORTAM_Bot"
     usar = user
     wew = usar.id
     try:
@@ -135,18 +135,18 @@ async def play(_, message: Message):
                 try:
                     await USER.join_chat(invitelink)
                     await USER.send_message(
-                        message.chat.id, "** ✅ɪ ᴀᴍ ʀᴇᴀᴅʏ ᴛᴏ ᴘʟᴀʏ ᴍᴜsɪᴄ...**")
+                        message.chat.id, "** ✅MUSIQI OXUMAQA HAZIRDI...**")
 
                 except UserAlreadyParticipant:
                     pass
                 except Exception:
                     await lel.edit(
-                        f"**ᴘʟᴇᴀsᴇ ᴍᴀɴᴜᴀʟʟʏ ᴀᴅᴅ ᴀssɪsᴛᴀɴᴛ ᴏʀ ᴄᴏɴᴛᴀᴄᴛ [sᴜᴍɪᴛ ʏᴀᴅᴀᴠ](https://t.me/Simple_Mundaa)** ")
+                        f"**ᴘʟᴇᴀsᴇ ᴍᴀɴᴜᴀʟʟʏ ᴀᴅᴅ ᴀssɪsᴛᴀɴᴛ ᴏʀ ᴄᴏɴᴛᴀᴄᴛ [sᴜᴍɪᴛ ʏᴀᴅᴀᴠ](https://t.me/Hedefs1z)** ")
     try:
         await USER.get_chat(chid)
     except:
         await lel.edit(
-            f"**ᴘʟᴇᴀsᴇ ᴍᴀɴᴜᴀʟʟʏ ᴀᴅᴅ ᴀssɪsᴛᴀɴᴛ ᴏʀ ᴄᴏɴᴛᴀᴄᴛ [sᴜᴍɪᴛ ʏᴀᴅᴀᴠ](https://t.me/Simple_Mundaa)*")
+            f"**ᴘʟᴇᴀsᴇ ᴍᴀɴᴜᴀʟʟʏ ᴀᴅᴅ ᴀssɪsᴛᴀɴᴛ ᴏʀ ᴄᴏɴᴛᴀᴄᴛ [sᴜᴍɪᴛ ʏᴀᴅᴀᴠ](https://t.me/Hedefs1z)*")
         return
     
     audio = (
@@ -172,8 +172,8 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
              [
             [
-                InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/TechQuardSupport"),
-                InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/TechQuard"),
+                InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/bizimortammm"),
+                InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/Hedefs1z"),
             ]
         ]
     )
@@ -209,8 +209,8 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
              [
             [
-                InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/TechQuardSupport"),
-                InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/TechQuard"),
+                InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/bizimortammm"),
+                InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/Hedefs1z"),
             ]
         ]
     )
@@ -223,8 +223,8 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
              [
             [
-                InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/TechQuardSupport"),
-                InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/TechQuard"),
+                InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/bizimortammm"),
+                InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/Hedefs1z"),
             ]
         ]
     )
@@ -242,7 +242,7 @@ async def play(_, message: Message):
             return await lel.edit(
                 "**ɢɪᴠᴇ ᴍᴜsɪᴄ ɴᴀᴍᴇ ᴛᴏ ᴘʟᴀʏ...**"
             )
-        await lel.edit("**🔄 ᴘʀᴏᴄᴇssɪɴɢ...**")
+        await lel.edit("**🔄 PROSES GEDİR...**")
         query = message.text.split(None, 1)[1]
         # print(query)
         try:
@@ -275,8 +275,8 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
              [
             [
-                InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/TechQuardSupport"),
-                InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/TechQuard"),
+                InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/bizimortammm"),
+                InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/Hedefs1z"),
             ]
         ]
     )
@@ -297,7 +297,7 @@ async def play(_, message: Message):
         position = await queues.put(chat_id, file=file_path)
         await message.reply_photo(
             photo="final.png",
-            caption="**🅰︎sᴜᴋᴀ 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ ᴀᴅᴅᴇᴅ sᴏɴɢ \n ᴀᴛ ᴘᴏsɪᴛɪᴏɴ » `{}` **".format(position),
+            caption="**BİZİM ORTAM 🅱︎ᴏᴛ ᴀᴅᴅᴇᴅ sᴏɴɢ \n ᴀᴛ ᴘᴏsɪᴛɪᴏɴ » `{}` **".format(position),
             reply_markup=keyboard,
         )
     else:
@@ -314,7 +314,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="**🅰︎sᴜᴋᴀ 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ ɴᴏᴡ \n ᴘʟᴀʏɪɴɢ ᴏᴘ...**".format(),
+            caption="**BİZİM ORTAM 🅱︎ᴏᴛ ɴᴏᴡ \n ᴘʟᴀʏɪɴɢ ᴏᴘ...**".format(),
            )
 
     os.remove("final.png")
@@ -328,7 +328,7 @@ async def pause(_, message: Message):
     await clientbot.pytgcalls.pause_stream(message.chat.id)
     await message.reply_photo(
                              photo="https://telegra.ph/file/5b3aae83c4c0599bcb356.jpg", 
-                             caption="**🅰︎sᴜᴋᴀ 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ ɴᴏᴡ \n ᴘᴀᴜsᴇᴅ...**"
+                             caption="**BİZİM ORTAM 🅱︎ᴏᴛ ɴᴏᴡ \n ᴘᴀᴜsᴇᴅ...**"
     )
 
 
@@ -339,7 +339,7 @@ async def resume(_, message: Message):
     await clientbot.pytgcalls.resume_stream(message.chat.id)
     await message.reply_photo(
                              photo="https://telegra.ph/file/bbda8c46e7f683bd73613.jpg", 
-                             caption="**🅰︎sᴜᴋᴀ 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ ɴᴏᴡ \n ᴘʟᴀʏɪɴɢ...**"
+                             caption="**BİZİM ORTAM 🅱︎ᴏᴛ ɴᴏᴡ \n ᴘʟᴀʏɪɴɢ...**"
     )
 
 
@@ -354,7 +354,7 @@ async def skip(_, message: Message):
     for x in clientbot.pytgcalls.active_calls:
         ACTV_CALLS.append(int(x.chat_id))
     if int(chat_id) not in ACTV_CALLS:
-        await message.reply_text("**🅰︎sᴜᴋᴀ 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ ɴᴏᴛʜɪɴɢ \n ᴘʟᴀʏɪɴɢ...**")
+        await message.reply_text("**BİZİM ORTAM 🅱︎ᴏᴛ ɴᴏᴛʜɪɴɢ \n ᴘʟᴀʏɪɴɢ...**")
     else:
         queues.task_done(chat_id)
         
@@ -373,7 +373,7 @@ async def skip(_, message: Message):
 
     await message.reply_photo(
                              photo="https://telegra.ph/file/00411492c1fb4c0a91f18.jpg", 
-                             caption=f'**🅰︎sᴜᴋᴀ 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ ɴᴏᴡ \n sᴋɪᴘᴘᴇᴅ...**'
+                             caption=f'**BİZİM ORTAM 🅱︎ᴏᴛ ɴᴏᴡ \n sᴋɪᴘᴘᴇᴅ...**'
    ) 
 
 
@@ -389,7 +389,7 @@ async def stop(_, message: Message):
     await clientbot.pytgcalls.leave_group_call(message.chat.id)
     await message.reply_photo(
                              photo="https://telegra.ph/file/00411492c1fb4c0a91f18.jpg", 
-                             caption="**🅰︎sᴜᴋᴀ 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ ɴᴏᴡ \n❌ sᴛᴏᴘᴘᴇᴅ...**"
+                             caption="**BİZİM ORTAM 🅱︎ᴏᴛ ɴᴏᴡ \n❌ sᴛᴏᴘᴘᴇᴅ...**"
     )
 
 
@@ -407,5 +407,5 @@ async def admincache(client, message: Message):
 
     await message.reply_photo(
                               photo="https://telegra.ph/file/fa8358cbb060a1b92339a.jpg",
-                              caption="**🅰︎sᴜᴋᴀ 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ ɴᴏᴡ \n ʀᴇʟᴏᴀᴅᴇᴅ...**"
+                              caption="**BİZİM ORTAM 🅱︎ᴏᴛ ɴᴏᴡ \n ʀᴇʟᴏᴀᴅᴇᴅ...**"
     )
