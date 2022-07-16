@@ -2,7 +2,7 @@
 
 ### ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴘʀᴇᴍɪᴜᴍ ᴍᴜsɪᴄ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ sᴜᴍɪᴛ ʏᴀᴅᴀᴠ.
 
-<p align="center"><a href="https://t.me/World_FriendShip_Zone"><img src="https://te.legra.ph/-07-16-1805"></a></p>
+<p align="center"><a href="https://t.me/World_FriendShip_Zone"><img src="./IMAGE.JPEG"></a></p>
 
 
  <h3 align="center">
