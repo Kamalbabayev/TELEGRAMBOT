@@ -1,4 +1,4 @@
-# Sumit Yadav // @Simple_Mundaa
+# KAMAL BABAYEV // @bizimortammm
 
 import asyncio
 from pyrogram import Client, filters
