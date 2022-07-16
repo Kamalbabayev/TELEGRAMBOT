@@ -1,8 +1,8 @@
- ### 🅰︎sᴜᴋᴀ 🅼︎ᴜsɪᴄ 🅱︎ᴏᴛ
+ ### BIZIM ORTAM
 
 ### ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴘʀᴇᴍɪᴜᴍ ᴍᴜsɪᴄ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ sᴜᴍɪᴛ ʏᴀᴅᴀᴠ.
 
-<p align="center"><a href="https://t.me/World_FriendShip_Zone"><img src="https://github.com/Kamalbabayev/TELEGRAMBOT/blob/main/IMAGE.jpeg?raw=true"></a></p>
+<p align="center"><a href="https://t.me/bizimortammm"><img src="https://github.com/Kamalbabayev/TELEGRAMBOT/blob/main/IMAGE.jpeg?raw=true"></a></p>
 
 
  <h3 align="center">
@@ -18,6 +18,6 @@
 
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ
-<a href="https://t.me/TechQuardSupport"><img src="https://img.shields.io/badge/Join-Group%20Support-black.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/TechQuard"><img src="https://img.shields.io/badge/Join-Updates%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Hedefs1z"><img src="https://img.shields.io/badge/Join-Group%20Support-black.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Hedefs1z"><img src="https://img.shields.io/badge/Join-Updates%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
 
  
